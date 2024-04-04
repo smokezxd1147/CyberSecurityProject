@@ -1,0 +1,1 @@
+docker build -t smokezxd1147/website:dev-2.0.0 .
